@@ -7,8 +7,8 @@ Created on Mon Apr 12 18:19:22 2021
 
 import smtplib, ssl,datetime
 
-sender= "sankarannamalai01@gmail.com"     #senders email id
-password="muthumani123"                #password
+sender= ""     #senders email id
+password=""                #password
 
 
 
